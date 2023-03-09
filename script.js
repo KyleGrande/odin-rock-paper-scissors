@@ -66,3 +66,4 @@ function game() {
         console.log('It is a tie!');
     }
 }
+game();
